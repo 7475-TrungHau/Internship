@@ -93,7 +93,7 @@ Việc không giải quyết bài toán tương tác dẫn đến những hậu 
 
 Giải pháp được thiết kế dựa trên kiến trúc `serverless` 100% trên AWS, lấy `AWS AppSync` làm trung tâm điều phối. Kiến trúc này đảm bảo khả năng mở rộng tự động, hiệu suất cao, bảo mật và tối ưu hóa chi phí.
 
-![Kiến trúc tổng thể](https://raw.githubusercontent.com/samuelbaker3193/mdfile/main/AppSync-LF-arch-diagram2-1.png)
+![Kiến trúc tổng thể](https://github.com/7475-TrungHau/Internship/blob/intern/lytrunghau/Aws/lytrunghau/project-proposal/Project_AWS.drawio%20(1).png?raw=true)
 *Sơ đồ 1: Kiến trúc tổng thể của Nền tảng Q&A và Polling Real-time*
 
 **Luồng dữ liệu chính (Data Flow):**
